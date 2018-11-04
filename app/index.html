@@ -1,0 +1,55 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,700i" rel="stylesheet">
+    <!-- build:css assets/styles/styles.css -->
+    <link rel="stylesheet" href="temp/styles/styles.css">
+    <!-- endbuild -->
+</head>
+<body>
+    <header class='header'>
+        <div class = 'header__container'>
+            <input type='text' placeholder='Please select all necessery variables' class='header__container__textbox'>
+            <button class='btn btn__generate'>Generate</button>
+        </div>
+    </header>
+    <div class="section group">
+        <div id='column_first' class="col span_custom">
+            <div id='dd_first1' class='dropdown dropdown--first'>
+                <input type='checkbox' class = 'dropdown__checkbox'>
+                <input type='button' class='btn btn__dropdown btn__dropdown--ignore' value='Select Category'>
+                <div class='dropdown__content'></div>
+            </div> 
+        </div>
+        <div id='column_second' class="col span_custom">
+            <div id='dd_second1' class='dropdown dropdown--second dropdown--hidden'>
+                <input type='button' class='btn btn__dropdown' value = 'Select Type'>
+                <div class='dropdown__content dropdown__content--frame'></div>
+            </div>
+        </div>
+        <div id='column_third' class="col span_custom">
+            <div id='dd_third1' class='dropdown dropdown--third dropdown--hidden'>
+                <input type='button' class='btn btn__dropdown'value = 'Select Item'>
+                <div class='dropdown__content'></div>
+            </div>
+        </div>
+    </div>
+    <footer class='footer'>
+        <div class='footer__container'>
+            <button class='btn btn__copy'>+</button>
+            <button class='btn btn__remove'>-</button>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- build:js assets/scripts/App.js -->
+    <script src="/temp/scripts/App.js"></script>
+    <!-- endbuild -->
+
+</body>
+</html>
+
+

@@ -1,0 +1,12 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+    &__container {
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, -100%);
+    }
+}

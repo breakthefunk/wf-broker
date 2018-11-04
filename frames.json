@@ -1,0 +1,47 @@
+var frames = [{
+  'name': "Banshee Prime",
+  'part1': 'Neuroptics',
+  'part2': 'Chasis',
+  'part3': 'Systems',
+  'blu': 'Blueprint',
+  'set': 'Set'
+  },
+  {
+  'name': 'Ash Prime',
+  'part': 'Neuroptics',
+  'part2': 'Chasis',
+  'part3': 'Systems',
+  'blu': 'Blueprint',
+  'set': 'Set'
+  },
+  {
+  'name': 'Banshee Prime',
+  'part1': 'Neuroptics',
+  'part2': 'Chasis',
+  'part3': 'Systems',
+  'blu': 'Blueprint',
+  'set': 'Set'
+  },
+  { 
+  'Chroma Prime', 
+  'Ember Prime', 
+  'Excalibur Prime', 
+  'Frost Prime', 
+  'Hydroid Prime', 
+  'Limbo Prime', 
+  'Loki Prime', 
+  'Mag Prime', 
+  'Mirage Prime', 
+  'Nekros Prime', 
+  'Nova Prime', 
+  'Nyx Prime', 
+  'Oberon Prime', 
+  'Rhino Prime', 
+  'Saryn Prime', 
+  'Trinity Prime', 
+  'Valkyr Prime', 
+  'Vauban Prime', 
+  'Volt Prime', 
+  'Zephyr Prime'
+  }
+]
