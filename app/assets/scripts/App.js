@@ -1,7 +1,7 @@
 import $ from 'jquery';
-import {cloneDropdown, deleteDropdown} from './modules/CloneDropdown';
-import {mouseOver} from './modules/MouseOver';
-import {dropdownSetup} from './modules/DropdownSetup';
+import {cloneAllDropdowns, deleteDropdown} from './modules/CloneDropdown';
+import {moMoEvents} from './modules/MouseOver';
+import {dropdownSetup, frames} from './modules/DropdownSetup';
 
 function firstArray(){
   var category=['Frame', 'Mod', 'Primary', 'Secondary', 'Melee'];
@@ -9,15 +9,13 @@ function firstArray(){
   {
   $('<a/>', {
       html: category[i],
-      class: 'dropdown__item'
-      }).appendTo('.dropdown--first .dropdown__content');
+      class: 'dropdown__list'
+      }).appendTo('.dropdown--category .dropdown__content');
   }
 };
 
-var secondId;
-
 firstArray();
-mouseOver();
 dropdownSetup();
-cloneDropdown();
-deleteDropdown();  
+cloneAllDropdowns();
+deleteDropdown(); 
+moMoEvents();

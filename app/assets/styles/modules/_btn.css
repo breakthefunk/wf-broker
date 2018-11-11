@@ -1,3 +1,9 @@
+@keyframes fadeInOut{
+  0%  { opacity:1; }
+  50% { opacity:0.4; }
+  100%{ opacity:1; }
+}
+
 .btn {
   font-weight: 700;
   margin-bottom: 2px;
@@ -13,8 +19,12 @@
   border-radius: 2px;
   box-shadow: 0 1px 3px rgba(17, 17, 17, 12), 0 1px 2px rgba(17, 17, 17, 24);
 
-  &--dropdown{
+  &__dropdown{
     font-size: 1em;
+
+    &--fadeInOut{ 
+      animation: fadeInOut 2s infinite;
+    }
 
     &::after{
       border: solid 1px black;

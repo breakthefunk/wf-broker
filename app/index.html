@@ -6,6 +6,7 @@
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <!-- build:css assets/styles/styles.css -->
     <link rel="stylesheet" href="temp/styles/styles.css">
     <!-- endbuild -->
@@ -18,23 +19,28 @@
         </div>
     </header>
     <div class="section group">
-        <div id='column_first' class="col span_custom">
-            <div id='dd_first1' class='dropdown dropdown--first'>
-                <input type='checkbox' class = 'dropdown__checkbox'>
+        <div id='column_category' class="col span_custom">
+            <div id='dd_category1' class='dropdown dropdown--category'>
                 <input type='button' class='btn btn__dropdown btn__dropdown--ignore' value='Select Category'>
-                <div class='dropdown__content'></div>
+                <div class='dropdown__content dropdown__content--grp1'></div>
             </div> 
         </div>
-        <div id='column_second' class="col span_custom">
-            <div id='dd_second1' class='dropdown dropdown--second dropdown--hidden'>
+        <div id='column_type' class="col span_custom">
+            <div id='dd_type1' class='dropdown dropdown--type dropdown--hidden'>
                 <input type='button' class='btn btn__dropdown' value = 'Select Type'>
-                <div class='dropdown__content dropdown__content--frame'></div>
+                <div class='dropdown__content dropdown__content--frame'>
+                    <form autocomplete="off" class = 'dropdown__autocomplete' action="/action_page.php">
+                        <div class="autocomplete" style="width:300px; height:15px;">
+                            <input id="myInput" type="text" name="myCountry" placeholder="Country">
+                         </div>
+                    </form>
+                </div>
             </div>
         </div>
-        <div id='column_third' class="col span_custom">
-            <div id='dd_third1' class='dropdown dropdown--third dropdown--hidden'>
+        <div id='column_item' class="col span_custom">
+            <div id='dd_item1' class='dropdown dropdown--item dropdown--hidden'>
                 <input type='button' class='btn btn__dropdown'value = 'Select Item'>
-                <div class='dropdown__content'></div>
+                <div class='dropdown__content dropdown__content--grp1'></div>
             </div>
         </div>
     </div>
