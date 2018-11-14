@@ -6,97 +6,113 @@
       "part1_url": "ash_prime_blueprint",
       "part2_url": "ash_prime_chassis",
       "part3_url": "ash_prime_neuroptics",
-      "part4_url": "ash_prime_systems"
+      "part4_url": "ash_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Banshee Prime",
       "part1_url": "banshee_prime_blueprint",
       "part2_url": "banshee_prime_chassis",
       "part3_url": "banshee_prime_neuroptics",
-      "part4_url": "banshee_prime_systems"
+      "part4_url": "banshee_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Ember Prime",
       "part1_url": "ember_prime_blueprint",
       "part2_url": "ember_prime_chassis",
       "part3_url": "ember_prime_neuroptics",
-      "part4_url": "ember_prime_systems"
+      "part4_url": "ember_prime_systems",
+      "tag": "warframe"
     },{
     "name": "Frost Prime",
       "part1_url": "frost_prime_blueprint",
       "part2_url": "frost_prime_chassis",
       "part3_url": "frost_prime_neuroptics",
-      "part4_url": "frost_prime_systems"
+      "part4_url": "frost_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Hydroid Prime",
       "part1_url": "hydroid_prime_blueprint",
       "part2_url": "hydroid_prime_chassis",
       "part3_url": "hydroid_prime_neuroptics",
-      "part4_url": "hydroid_prime_systems"
+      "part4_url": "hydroid_prime_systems",
+      "tag": "warframe"
     },{
     "name": "Mag Prime",
       "part1_url": "mag_prime_blueprint",
       "part2_url": "mag_prime_chassis",
       "part3_url": "mag_prime_neuroptics",
-      "part4_url": "mag_prime_systems"
+      "part4_url": "mag_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Nekros Prime",
       "part1_url": "nekros_prime_blueprint",
       "part2_url": "nekros_prime_chassis",
       "part3_url": "nekros_prime_neuroptics",
-      "part4_url": "nekros_prime_systems"
+      "part4_url": "nekros_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Nova Prime",
       "part1_url": "nova_prime_blueprint",
       "part2_url": "nova_prime_chassis",
       "part3_url": "nova_prime_neuroptics",
-      "part4_url": "nova_prime_systems"
+      "part4_url": "nova_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Nyx Prime",
       "part1_url": "nyx_prime_blueprint",
       "part2_url": "nyx_prime_chassis",
       "part3_url": "nyx_prime_neuroptics",
-      "part4_url": "nyx_prime_systems"
+      "part4_url": "nyx_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Oberon Prime",
       "part1_url": "oberon_prime_blueprint",
       "part2_url": "oberon_prime_chassis",
       "part3_url": "oberon_prime_neuroptics",
-      "part4_url": "oberon_prime_systems"
+      "part4_url": "oberon_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Rhino Prime",
       "part1_url": "rhino_prime_blueprint",
       "part2_url": "rhino_prime_chassis",
       "part3_url": "rhino_prime_neuroptics",
-      "part4_url": "rhino_prime_systems"
+      "part4_url": "rhino_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Saryn Prime",
       "part1_url": "saryn_prime_blueprint",
       "part2_url": "saryn_prime_chassis",
       "part3_url": "saryn_prime_neuroptics",
-      "part4_url": "saryn_prime_systems"
+      "part4_url": "saryn_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Trinity Prime",
       "part1_url": "trinity_prime_blueprint",
       "part2_url": "trinity_prime_chassis",
       "part3_url": "trinity_prime_neuroptics",
-      "part4_url": "trinity_prime_systems"
+      "part4_url": "trinity_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Valkyr Prime",
       "part1_url": "valkyr_prime_blueprint",
       "part2_url": "valkyr_prime_chassis",
       "part3_url": "valkyr_prime_neuroptics",
-      "part4_url": "valkyr_prime_systems"
+      "part4_url": "valkyr_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Vauban Prime",
       "part1_url": "vauban_prime_blueprint",
       "part2_url": "vauban_prime_chassis",
       "part3_url": "vauban_prime_neuroptics",
-      "part4_url": "vauban_prime_systems"
+      "part4_url": "vauban_prime_systems",
+      "tag": "warframe"
     },{
       "name": "Volt Prime",
       "part1_url": "volt_prime_blueprint",
       "part2_url": "volt_prime_chassis",
       "part3_url": "volt_prime_neuroptics",
-      "part4_url": "volt_prime_systems"
+      "part4_url": "volt_prime_systems",
+      "tag": "warframe"
     }
   ],
   "Primary":
@@ -107,74 +123,86 @@
       "part2_url": "ballistica_prime_lower_limb",
       "part3_url": "ballistica_prime_receiver",
       "part4_url": "ballistica_prime_string",
-      "part5_url": "ballistica_prime_upper_limb"
+      "part5_url": "ballistica_prime_upper_limb",
+      "tag": "primary"
     },{
       "name": "Boar Prime",
       "part1_url": "boar_prime_barrel",
       "part2_url": "boar_prime_blueprint",
       "part3_url": "boar_prime_receiver",
-      "part4_url": "boar_prime_stock"
+      "part4_url": "boar_prime_stock",
+      "tag": "primary"
     },{
       "name": "Boltor Prime",
       "part1_url": "boltor_prime_barrel",
       "part2_url": "boltor_prime_blueprint",
       "part3_url": "boltor_prime_receiver",
-      "part4_url": "boltor_prime_stock"
+      "part4_url": "boltor_prime_stock",
+      "tag": "primary"
     },{
       "name": "Braton Prime",
       "part1_url": "braton_prime_barrel",
       "part2_url": "braton_prime_blueprint",
       "part3_url": "braton_prime_receiver",
-      "part4_url": "braton_prime_stock"
+      "part4_url": "braton_prime_stock",
+      "tag": "primary"
     },{
       "name": "Broonco Prime",
       "part1_url": "bronco_prime_barrel",
       "part2_url": "bronco_prime_blueprint",
-      "part3_url": "bronco_prime_receiver"
+      "part3_url": "bronco_prime_receiver",
+      "tag": "primary"
     },{
       "name": "Burston Prime",
       "part1_url": "burston_prime_barrel",
       "part2_url": "burston_prime_blueprint",
       "part3_url": "burston_prime_receiver",
-      "part4_url": "burston_prime_stock"
+      "part4_url": "burston_prime_stock",
+      "tag": "primary"
     },{
       "name": "Cernos Prime",
       "part1_url": "cernos_prime_blueprint",
       "part2_url": "cernos_prime_grip",
       "part3_url": "cernos_prime_lower_limb",
       "part4_url": "cernos_prime_string",
-      "part5_url": "cernos_prime_upper_limb"
+      "part5_url": "cernos_prime_upper_limb",
+      "tag": "primary"
     },{
       "name": "Latron Prime",
       "part1_url": "latron_prime_barrel",
       "part2_url": "latron_prime_blueprint",
       "part3_url": "latron_prime_receiver",
-      "part4_url": "latron_prime_stock"
+      "part4_url": "latron_prime_stock",
+      "tag": "primary"
     },{
     "name": "Paris Prime",
       "part1_url": "paris_prime_blueprint",
       "part2_url": "paris_prime_grip",
       "part3_url": "paris_prime_lower_limb",
       "part4_url": "paris_prime_string",
-      "part5_url": "paris_prime_upper_limb"
+      "part5_url": "paris_prime_upper_limb",
+      "tag": "primary"
     },{
       "name": "Soma Prime",
       "part1_url": "soma_prime_barrel",
       "part2_url": "soma_prime_blueprint",
       "part3_url": "soma_prime_receiver",
-      "part4_url": "soma_prime_stock"
+      "part4_url": "soma_prime_stock",
+      "tag": "primary"
     },{
       "name": "Sybaris Prime",
       "part1_url": "sybaris_prime_barrel",
       "part2_url": "sybaris_prime_blueprint",
       "part3_url": "sybaris_prime_receiver",
-      "part4_url": "sybaris_prime_stock"
+      "part4_url": "sybaris_prime_stock",
+      "tag": "primary"
     },{
       "name": "Tigris Prime",
       "part1_url": "tigris_prime_barrel",
       "part2_url": "tigris_prime_blueprint",
       "part3_url": "tigris_prime_receiver",
-      "part4_url": "tigris_prime_stock"
+      "part4_url": "tigris_prime_stock",
+      "tag": "primary"
     }
   ],
   "Secondary":
@@ -182,43 +210,52 @@
     {
       "name": "Akbronco Prime",
       "part1_url": "akbronco_prime_blueprint",
-      "part2_url": "akbronco_prime_link"
+      "part2_url": "akbronco_prime_link",
+      "tag": "secondary"
+      
     },{
       "name": "Aklex Prime",
       "part1_url": "aklex_prime_blueprint",
-      "part2_url": "aklex_prime_link"
+      "part2_url": "aklex_prime_link",
+      "tag": "secondary"
     },{
       "name": "Akstiletto Prime",
       "part1_url": "akstiletto_prime_barrel",
       "part2_url": "akstiletto_prime_blueprint",
       "part3_url": "akstiletto_prime_link",
-      "part4_url": "akstiletto_prime_receiver"
+      "part4_url": "akstiletto_prime_receiver",
+      "tag": "secondary"
     },{
       "name": "Euphona Prime",
       "part1_url": "euphona_prime_barrel",
       "part2_url": "euphona_prime_blueprint",
-      "part3_url": "euphona_prime_receiver"
+      "part3_url": "euphona_prime_receiver",
+      "tag": "secondary"
     },{
     "name": "Lex Prime",
       "part1_url": "lex_prime_barrel",
       "part2_url": "lex_prime_blueprint",
-      "part3_url": "lex_prime_receiver"
+      "part3_url": "lex_prime_receiver",
+      "tag": "secondary"
     },{
       "name": "Sicarus Prime",
       "part1_url": "sicarus_prime_barrel",
       "part2_url": "sicarus_prime_blueprint",
-      "part3_url": "sicarus_prime_receiver"
+      "part3_url": "sicarus_prime_receiver",
+      "tag": "secondary"
     },{
       "name": "Vasto Prime",
       "part1_url": "vasto_prime_barrel",
       "part2_url": "vasto_prime_blueprint",
-      "part3_url": "vasto_prime_receiver"
+      "part3_url": "vasto_prime_receiver",
+      "tag": "secondary"
     },{
       "name": "Vectis Prime",
       "part1_url": "vectis_prime_barrel",
       "part2_url": "vectis_prime_blueprint",
       "part3_url": "vectis_prime_receiver",
-      "part4_url": "vectis_prime_stock"
+      "part4_url": "vectis_prime_stock",
+      "tag": "secondary"
     }
   ],
   "Melee":
@@ -227,87 +264,103 @@
       "name": "Ankyros Prime",
       "part1_url": "ankyros_prime_blade",
       "part2_url": "ankyros_prime_blueprint",
-      "part3_url": "ankyros_prime_gauntlet"
+      "part3_url": "ankyros_prime_gauntlet",
+      "tag": "melee"
     },{
     "name": "Dakra Prime",
       "part1_url": "dakra_prime_blade",
       "part2_url": "dakra_prime_blueprint",
-      "part3_url": "dakra_prime_handle"
+      "part3_url": "dakra_prime_handle",
+      "tag": "melee"
     },{
       "name": "Dual Kamas",
       "part1_url": "dual_kamas_prime_blade",
       "part2_url": "dual_kamas_prime_blueprint",
-      "part3_url": "dual_kamas_prime_handle"
+      "part3_url": "dual_kamas_prime_handle",
+      "tag": "melee"
     },{
     "name": "Fang Prime",
       "part1_url": "fang_prime_blade",
       "part2_url": "fang_prime_blueprint",
-      "part3_url": "fang_prime_handle"
+      "part3_url": "fang_prime_handle",
+      "tag": "melee"
     },{
       "name": "Fragor Prime",
       "part1_url": "fragor_prime_blueprint",
       "part2_url": "fragor_prime_handle",
-      "part3_url": "fragor_prime_head"
+      "part3_url": "fragor_prime_head",
+      "tag": "melee"
     },{
       "name": "Galatine Prime",
       "part1_url": "galatine_prime_blade",
       "part2_url": "galatine_prime_blueprint",
       "part3_url": "galatine_prime_handle",
-      "part4_url": "glaive_prime_blade"
+      "part4_url": "glaive_prime_blade",
+      "tag": "melee"
     },{
       "name": "Glaive Prime",
       "part1_url": "glaive_prime_blueprint",
       "part2_url": "glaive_prime_disc",
-      "part3_url": "helios_prime_blueprint"
+      "part3_url": "helios_prime_blueprint",
+      "tag": "melee"
     },{
       "name": "Hikou Prime",
       "part1_url": "hikou_prime_blueprint",
       "part2_url": "hikou_prime_pouch",
-      "part3_url": "hikou_prime_stars"
+      "part3_url": "hikou_prime_stars",
+      "tag": "melee"
     },{
       "name": "Nami Skyla Prime",
       "part1_url": "nami_skyla_prime_blade",
       "part2_url": "nami_skyla_prime_blueprint",
-      "part3_url": "nami_skyla_prime_handle"
+      "part3_url": "nami_skyla_prime_handle",
+      "tag": "melee"
     },{
       "name": "Nikana Prime",
       "part1_url": "nikana_prime_blade",
       "part2_url": "nikana_prime_blueprint",
-      "part3_url": "nikana_prime_hilt"
+      "part3_url": "nikana_prime_hilt",
+      "tag": "melee"
     },{
       "name": "Orthos Prime",
       "part1_url": "orthos_prime_blade",
       "part2_url": "orthos_prime_blueprint",
-      "part3_url": "orthos_prime_handle"
+      "part3_url": "orthos_prime_handle",
+      "tag": "melee"
     },{
       "name": "Reaper Prime",
       "part1_url": "reaper_prime_blade",
       "part2_url": "reaper_prime_blueprint",
-      "part3_url": "reaper_prime_handle"
+      "part3_url": "reaper_prime_handle",
+      "tag": "melee"
     },{
       "name": "Scindo Prime",
       "part1_url": "scindo_prime_blade",
       "part2_url": "scindo_prime_blueprint",
-      "part3_url": "scindo_prime_handle"
+      "part3_url": "scindo_prime_handle",
+      "tag": "melee"
     },{
       "name": "Silva and Aegis Prime",
       "part1_url": "silva_and_aegis_prime_blade",
       "part2_url": "silva_and_aegis_prime_blueprint",
       "part3_url": "silva_and_aegis_prime_guard",
-      "part4_url": "silva_and_aegis_prime_hilt"
+      "part4_url": "silva_and_aegis_prime_hilt",
+      "tag": "melee"
     },{
       "name": "Spira Prime",
       "part1_url": "spira_prime_blade",
       "part2_url": "spira_prime_blueprint",
-      "part3_url": "spira_prime_pouch"
+      "part3_url": "spira_prime_pouch",
+      "tag": "melee"
     },{
       "name": "Venka Prime",
       "part1_url": "venka_prime_blades",
       "part2_url": "venka_prime_blueprint",
-      "part3_url": "venka_prime_gauntlet"
+      "part3_url": "venka_prime_gauntlet",
+      "tag": "melee"
     }
   ],
-  "Companion":
+  "Misc.":
   [
     {      
       "name": "Carrier Prime",
@@ -333,7 +386,7 @@
       "part4_url": "odonata_prime_wings"
     }
   ],
-  "Mods":
+  "cat6":
   [
     "armored_agility",
     "antitoxin",
