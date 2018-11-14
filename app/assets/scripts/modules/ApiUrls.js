@@ -1,4 +1,4 @@
-var item_db = [
+let items = [
     "akbronco_prime_blueprint",
     "akbronco_prime_link",
     "aklex_prime_blueprint",
@@ -42,6 +42,19 @@ var item_db = [
     "burston_prime_blueprint",
     "burston_prime_receiver",
     "burston_prime_stock",
+
+    if(ddId.includes('category')){
+        console.log(ddId);
+    }
+    let typeId = ddId.replace('dd_category', 'dd_type');
+    typeElement = document.getElementById(typeId);
+    typeBtn = typeElement.firstElementChild;
+    typeContent = typeElement.children[1];
+    if(typeElement.classList.contains('dropdown--hidden')){
+        typeElement.classList.remove('dropdown--hidden');
+    };
+
+
     "carrier_prime_blueprint",
     "carrier_prime_carapace",
     "carrier_prime_cerebrum",
@@ -203,7 +216,7 @@ var item_db = [
     "volt_prime_systems",
 ];
 
-var mod_db = [
+let mods_db = [
     "armored_agility",
     "antitoxin",
     "aviator",

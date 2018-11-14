@@ -410,15 +410,15 @@ body {
 .dropdown__content{
         text-align: center;
         position: absolute;
-        width: 200px;
+        width: 199px;
         z-index: 1;
         overflow: hidden;
         text-transform: uppercase;
         height: 0px;
         transition: all 0.5s ease;
-
-        background-color: rgba(17, 17, 17, 0.5);
     }
+
+/* background-color: rgba(17, 17, 17, 0.5); */
 
 .dropdown__content--frame{
             width: 600;
@@ -436,8 +436,9 @@ body {
         font-weight: 600;
         background-color: rgba(17, 17, 17, 0.4);
         text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.7);
-        border-radius: 2px;
     }
+
+/* border-radius: 2px; */
 
 .dropdown__list:hover{
             transition: color 0.3s ease;
